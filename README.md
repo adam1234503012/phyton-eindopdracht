@@ -1,2 +1,15 @@
-# phyton-eindopdracht
-phyton eindopdracht
+# Python Eindopdracht
+
+## Studenten
+- Adam Elmrini
+- Naam klasgenoot
+
+## Beschrijving
+Voor deze opdracht maken we verschillende Python-programma's.
+
+## Onderwerpen
+- Variables
+- If-statements
+- Lists
+- Loops
+- Match case
