@@ -1,5 +1,5 @@
 # Maak een boodschappenlijst
-boodschappen = ["Brood", "Melk", "Appels", "Kaas", "Eieren","bananen","Yoghurt"]
+boodschappen = ["Brood", "Melk", "Appels", "Kaas", "Eieren","bananen","yoghurt"]
 
 # Voeg twee producten toe
 boodschappen.append("Bananen")
