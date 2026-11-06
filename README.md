@@ -2,7 +2,7 @@
 
 ## Studenten
 - Adam Elmrini
-- Naam klasgenoot
+- Ismail Abdelmalki
 
 ## Beschrijving
 Voor deze opdracht maken we verschillende Python-programma's.

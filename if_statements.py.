@@ -1,0 +1,15 @@
+# Cijfers voor drie vakken
+cijfer_nederlands = 7
+cijfer_engels = 6
+cijfer_rekenen = 5
+
+# Bereken het gemiddelde
+gemiddelde = (cijfer_nederlands + cijfer_engels + cijfer_rekenen) / 3
+
+print("Gemiddelde:", gemiddelde)
+
+# Controleer of de student geslaagd is
+if gemiddelde >= 5.5 and cijfer_nederlands >= 4 and cijfer_engels >= 4 and cijfer_rekenen >= 4:
+    print("Geslaagd!")
+else:
+    print("Gezakt!")
